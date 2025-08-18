@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Tiago Santos
+# Portfólio Pessoal - Valdineia Cordeiro Reinaldo Silva
 
 Este é meu portfólio pessoal, desenvolvido em HTML, CSS e JavaScript.
 
@@ -15,9 +15,9 @@ Este é meu portfólio pessoal, desenvolvido em HTML, CSS e JavaScript.
 2. Abra o arquivo `index.html` no navegador.
 
 ## 📬 Contato
-- Email: tiago@email.com  
-- LinkedIn: [linkedin.com/in/tiagosantos](https://linkedin.com/in/tiagosantos)  
+- Email: valdineiacorediro246@gmail.com
+- LinkedIn: www.linkedin.com/in/valdineia-cordeiro-49a5012a7 
 - GitHub: [github.com/tiagosantos](https://github.com/tiagosantos)
 
 ---
-© 2025 Tiago Santos
+© 2025 Valdineia Cordeiro
