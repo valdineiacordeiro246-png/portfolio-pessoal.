@@ -6,6 +6,9 @@ Este é meu portfólio pessoal, desenvolvido em HTML, CSS e JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+  ## Obejetivo
+  Busco em desenvilver minha carreira na airia de Tecnologia da informação,
+  aplicando os conhecimento adiquirido no curso de Análise e Desenvolvimento de Sistemas. Como estudante em formação tenho interesse em aprender e ganhar experiência prática em formação, contribuindo para projetos que ampliam meu aprendizado e fortaleçam minhas habilidades profissionais.
 
 ## 🚀 Como visualizar
 1. Baixe ou clone este repositório:
@@ -17,7 +20,7 @@ Este é meu portfólio pessoal, desenvolvido em HTML, CSS e JavaScript.
 ## 📬 Contato
 - Email: valdineiacorediro246@gmail.com
 - LinkedIn: www.linkedin.com/in/valdineia-cordeiro-49a5012a7 
-- GitHub: [github.com/tiagosantos](https://github.com/tiagosantos)
+- GitHub: [github.com/valdineiacordeiro](https://github.com/tiagosantos)
 
 ---
 © 2025 Valdineia Cordeiro
