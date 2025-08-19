@@ -19,7 +19,7 @@ Este é meu portfólio pessoal, desenvolvido em HTML, CSS e JavaScript.
 
 ## 📬 Contato
 - Email: valdineiacorediro246@gmail.com
-- LinkedIn: www.linkedin.com/in/valdineia-cordeiro-49a5012a7 
+- LinkedIn: www.linkedin.com/in/valdineia-cordeiro-49a5012a7
 - GitHub: [github.com/valdineiacordeiro](https://github.com/tiagosantos)
 
 ---
